@@ -1,0 +1,46 @@
+header{
+    height: fit-content;
+}
+
+nav{
+    background-color: rgb(176, 185, 185,0.3);
+}
+
+#header{
+    height:60vh;
+    background-image: url('headerimg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Profileheading{
+    width:fit-content;
+    height: fit-content;
+}
+
+/* Main Content */
+#maincontent{
+    scroll-behavior: smooth;
+}
+
+/* --------------About content-------------- */
+#about{
+    margin-top:80px;
+}
+
+.aboutcontent{
+    text-align: justify;
+    word-spacing: 2px;
+    font-size: 19px;
+}
+/* --------------About content close-------------- */
+
+/* --------------Work Experience------------------- */
+
+/* --------------Work Experience close------------------- */
+
+
+img{
+    display: block;
+}
+

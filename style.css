@@ -39,8 +39,25 @@ nav{
 
 /* --------------Work Experience close------------------- */
 
-
+/* Common Styling */
 img{
     display: block;
+}
+
+table,th{
+    border: 1px solid black !important;
+}
+
+table tr th{
+    vertical-align: top;
+}
+
+
+p{
+    text-align: justify;
+}
+
+a{
+text-decoration: none !important;
 }
 

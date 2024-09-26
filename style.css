@@ -18,6 +18,11 @@ nav{
     height: fit-content;
 }
 
+.contactdetails{
+    width:fit-content;
+    height: fit-content;
+}
+
 /* Main Content */
 #maincontent{
     scroll-behavior: smooth;
@@ -34,10 +39,6 @@ nav{
     font-size: 19px;
 }
 /* --------------About content close-------------- */
-
-/* --------------Work Experience------------------- */
-
-/* --------------Work Experience close------------------- */
 
 /* Common Styling */
 img{
@@ -57,7 +58,15 @@ p{
     text-align: justify;
 }
 
-a{
+.anchortag{
 text-decoration: none !important;
+display: block;
 }
 
+.cvdownload{
+    color: white;
+}
+
+button{
+    text-decoration: underline !important;
+}

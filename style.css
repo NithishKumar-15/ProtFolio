@@ -40,6 +40,10 @@ nav{
 }
 /* --------------About content close-------------- */
 
+.skillsrange{
+    width: 50%;
+}
+
 /* Common Styling */
 img{
     display: block;
@@ -69,4 +73,16 @@ display: block;
 
 button{
     text-decoration: underline !important;
+}
+
+@media (max-width:400px){
+    .skillsrange{
+        width: 100%;
+    } 
+}
+
+@media (max-width:224px){
+    .skillsrange{
+        width: 100%;
+    } 
 }
